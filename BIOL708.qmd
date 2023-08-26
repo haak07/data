@@ -1,0 +1,16 @@
+---
+title: "708"
+format: docx
+editor: visual
+---
+
+Title: Morphological and phylogenetic analysis of Tunicate species under changing climate.
+
+Tunicate is a marine invertebrate Ascidians group species, found mostly in pelagic zone. I would like to analyze the abundance and distribution of tunicate species in the California bays. I will be able to devise a comprehensive understanding of why tunicate species are found where they are (as it will be possible to identify their origin with morphological analysis by comparison with other taxa, Akther et al. 2015) and what environmental requirements they have. It is crucial to study the potential impact of climate change and the impact on tunicate species as they relate to the composition of growth dynamics, in order to examine how the ocean plays a regulating role of the climate relative to marine and estuarine ecosystems. I therefore found two hypothesis:
+- Abundance and distribution of tunicate species decreases with temperature and salinity increases
+- Abundance and distribution of tunicate species decreases with temperature and salinity decreases.
+
+In order to investigate these hypothesis I believe developing insights into global climate change will not only allow me to define it as an important ecosystem and habitat for tunicate species of California, but it will also allow me to better understand the optimal conditions that invertebrate habitats thrive in. In characterizing the ecology and physiology of tunicate species, I will also be able to establish baseline information on habitat characteristics, abundance and occurrence, species diversity, and nutrient flux, apart from emphasize in morphological and phylogentical investigation.
+
+Akther H, Agersted MD, Olesen J (2015) Naupliar and Metanaupliar Development of Thysanoessa raschii (Malacostraca, Euphausiaceae) from Godthåbsfjord, Greenland, with a Reinstatement of the Ancestral Status of the Free-living Nauplius in Malacostracan Evolution.
+PloS One http://doi:10.1371/journal.pone.0141955.
